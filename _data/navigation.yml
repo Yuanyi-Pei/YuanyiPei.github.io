@@ -12,5 +12,7 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
+  - title: "Motivation"
+    url: /motivation/
   - title: "CV"
     url: /cv/
