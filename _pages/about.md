@@ -49,6 +49,13 @@ In addition, I am developing skills in in vivo electrophysiology and behavioral 
 ## Independent Research
 
 ### Optimization of Compact Human Prepro-Orexin Promoters for Selective Targeting of Orexin Neurons
+
+<div style="text-align:center;">
+  <img src="{{ site.baseurl }}/images/mhOX-10x.jpg"
+       alt="mhOX 10x fluorescence image"
+       style="width:75%; max-width:700px; height:auto; margin:25px 0;">
+</div>
+
 This project aimed to improve the specificity and efficiency of viral targeting of orexin/hypocretin neurons in wild-type mice. 
 
 The widely used 3.2 kb human prepro-orexin promoter approaches the packaging limit of AAV vectors, restricting the incorporation of additional functional elements. To address this limitation, I designed and engineered truncated promoter variants by strategically removing Alu repeat sequences while preserving critical regulatory elements (OE1 and OE2).
