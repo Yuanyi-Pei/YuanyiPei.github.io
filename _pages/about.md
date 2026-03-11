@@ -61,6 +61,13 @@ This work is currently being prepared for manuscript submission.
 
 ---
 ### Undergraduate Thesis: Neural Regulation of Eyelid Closure During Sleep
+
+<div style="text-align:center;">
+  <img src="{{ site.baseurl }}/images/English%20version_15(1).jpg" 
+       alt="Research Image"
+       style="max-width:80%; height:auto; margin:20px 0;">
+</div>
+
 My undergraduate thesis explored the neural mechanisms underlying eyelid closure during sleep, motivated by a fundamental question: how does sleep pressure influence motor output systems?
 
 Using retrograde tracing from the orbicularis oculi muscle, I mapped the distribution of facial motor neurons (7N) controlling eyelid closure and characterized their neurotransmitter identity through immunohistochemistry. I established a high-precision facial muscle injection protocol in mice and identified a clustered population of cholinergic neurons located in the lateral posterior region of the facial nucleus.
