@@ -20,13 +20,13 @@ I hope to build a research career that integrates curiosity-driven discovery wit
 
 <div style="overflow-x: auto; white-space: nowrap; scroll-snap-type: x mandatory; padding: 10px 0;">
 
-  <img src="{{ site.baseurl }}/images/CIBR-1.jpg"
-       style="width:80%; max-width:600px; margin-right:20px; scroll-snap-align:center; display:inline-block;">
-
   <img src="{{ site.baseurl }}/images/CIBR-2.jpg"
        style="width:80%; max-width:600px; margin-right:20px; scroll-snap-align:center; display:inline-block;">
 
   <img src="{{ site.baseurl }}/images/CIBR-3.jpg"
+       style="width:80%; max-width:600px; margin-right:20px; scroll-snap-align:center; display:inline-block;">
+       
+  <img src="{{ site.baseurl }}/images/CIBR-1.jpg"
        style="width:80%; max-width:600px; margin-right:20px; scroll-snap-align:center; display:inline-block;">
 
   <img src="{{ site.baseurl }}/images/CIBR.jpg"
