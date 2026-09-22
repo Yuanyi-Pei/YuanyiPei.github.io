@@ -33,9 +33,9 @@ This project addressed the AAV packaging constraint imposed by the 3.2 kb human 
 
 I validated promoter performance using systemic retro-orbital delivery of AAV-PHP.eB for whole-brain targeting and stereotaxic injection into the lateral hypothalamus for high-resolution axonal projection mapping. A minimal construct achieved **greater than 96% coverage and greater than 97% specificity**, supporting stable, neuron-specific transgene expression within AAV packaging constraints. I also validated expression of jGCaMP8S and compatibility with miniaturized two-photon (Mini2P)-related experiments.
 
-**Manuscript:** **Pei, Y.**, Ohmura, Y., & Yamanaka, A. *Compact human prepro-orexin promoters for selective AAV2/PHP.eB-mediated targeting of orexin/hypocretin neurons.*  
-**Status:** Submitted to *Cell Reports Methods*.  
-**DOI:** Not listed for this submitted manuscript.
+**Manuscript / preprint:** **Pei, Y.**, Tesmer, A. L., Ohmura, Y., & Yamanaka, A. *Compact human prepro-orexin promoters for selective AAV2/PHP.eB-mediated targeting of orexin/hypocretin neurons.*  
+**Status:** Submitted to *Cell Reports Methods*; preprint available through SSRN / Cell Press Sneak Peek (posted June 4, 2026; under review).  
+**Preprint DOI:** [10.2139/ssrn.6874777](https://doi.org/10.2139/ssrn.6874777) · [Read the preprint on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6874777)
 
 ---
 
