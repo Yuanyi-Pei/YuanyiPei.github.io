@@ -23,7 +23,7 @@ repository               : "Yuanyi-Pei/YuanyiPei.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "yuanyi-pei-lab.jpg"
   name             : "Yuanyi Pei"
   bio              : "MS Candidate in Biomedical Sciences at Icahn School of Medicine at Mount Sinai. Research in sleep neurobiology and hypothalamic circuits."
   location         : "New York / Beijing"
