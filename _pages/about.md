@@ -48,6 +48,27 @@ In addition, I am developing skills in in vivo electrophysiology and behavioral 
 
 ## Independent Research
 
+### Sik3 Mutation, Sleep Regulation, and Hypothalamic Function
+
+**Varga Lab, Icahn School of Medicine at Mount Sinai | June 2025–present**  
+**Supervisor: Andrew Varga, MD, PhD**
+
+In this ongoing project, I investigate how the *Sik3-Sleepy* mutation affects sleep stability and hypothalamic function. Motivated by sleep fragmentation and broader metabolic and behavioral changes in mutant mice, my work examines whether this model has features beyond idiopathic hypersomnia, including narcolepsy-like phenotypes.
+
+Combining EEG/EMG analysis with behavioral testing, the project has three aims: assess chocolate-associated cataplexy-like behavior; test curcumin as a candidate SIK3 inhibitor for its effects on sleep phenotypes; and determine whether localized expression of mutant SIK3 in the lateral hypothalamic area can reproduce sleep and physiological abnormalities. My contributions include sleep-recording analysis, behavioral assays, oral gavage, and development of tissue-processing protocols. These studies are ongoing, with the goal of clarifying how SIK3-dependent signaling links sleep regulation to hypothalamic function.
+
+<div style="text-align:center;">
+  <a href="{{ site.baseurl }}/images/sik3-symposium-aims.png">
+    <img src="{{ site.baseurl }}/images/sik3-symposium-aims.png"
+         alt="Three aims of the Mount Sinai Sik3 project: cataplexy-like behavior, curcumin intervention, and localized SIK3 expression in the lateral hypothalamus"
+         style="width:100%; max-width:900px; height:auto; margin:20px 0;">
+  </a>
+</div>
+
+*Research aims presented at the Mount Sinai symposium. Click the image to view the full-size figure.*
+
+---
+
 ### Optimization of Compact Human Prepro-Orexin Promoters for Selective Targeting of Orexin Neurons
 
 <div style="text-align:center;">
