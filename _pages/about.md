@@ -98,3 +98,19 @@ Through this work, I developed a deeper interest in how sleep-dependent neural d
 Since June 2025, I have worked in Andrew Varga’s lab at the Icahn School of Medicine at Mount Sinai, where I investigate how the *Sik3-Sleepy* mutation affects sleep stability and hypothalamic function. Motivated by sleep fragmentation and broader metabolic and behavioral changes in mutant mice, my work examines whether this model has features beyond idiopathic hypersomnia, including narcolepsy-like phenotypes.
 
 Combining EEG/EMG analysis with behavioral testing, the project has three aims: assess chocolate-associated cataplexy-like behavior; test curcumin as a candidate SIK3 inhibitor for its effects on sleep phenotypes; and determine whether localized expression of mutant SIK3 in the lateral hypothalamic area can reproduce sleep and physiological abnormalities. My contributions include sleep-recording analysis, behavioral assays, oral gavage, and development of tissue-processing protocols. These studies are ongoing, with the goal of clarifying how SIK3-dependent signaling links sleep regulation to hypothalamic function.
+
+---
+
+### Review Project: Sleep, Immunity, and Alzheimer’s Disease
+
+<div style="text-align:center;">
+  <a href="{{ site.baseurl }}/images/sleep-immunity-alzheimers-review.png">
+    <img src="{{ site.baseurl }}/images/sleep-immunity-alzheimers-review.png"
+         alt="Proposed immune pathways linking sleep disruption to Alzheimer’s disease through microglia, T cells, and cytokines"
+         style="width:75%; max-width:700px; height:auto; margin:25px 0;">
+  </a>
+</div>
+
+In this literature review project, I examine how immune dysregulation may link sleep disturbances to Alzheimer’s disease. I synthesize evidence from human and animal studies on sleep deprivation, sleep fragmentation, obstructive sleep apnea, and circadian disruption, focusing on microglial activity, T-cell responses, and inflammatory cytokines.
+
+The review explores potential connections between these immune changes and synaptic loss, amyloid-β and tau pathology, and blood–brain barrier dysfunction. By comparing findings across sleep-disruption models, age groups, and exposure durations, I highlight conflicting evidence and gaps in causal understanding, with the goal of identifying testable mechanisms at the intersection of sleep, neuroimmunology, and neurodegeneration.
