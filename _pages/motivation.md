@@ -42,35 +42,20 @@ What I value most from that period is the research atmosphere itself: long discu
 
 ---
 
-## Meet fufu — My Unofficial Sleep Consultant
+## Meet fufu
 
-Away from the lab, meet my cat, **fufu**. I study sleep; fufu handles the practical demonstrations. No EEG required — just a comfortable spot and absolutely no urgent plans.
+Nothing much here, just showing off my cat, **fufu** :)
 
-This little corner is for the softer side of life: window watching, paws in the air, and taking a well-earned break. A useful reminder that even a sleep researcher should get some rest.
+<div style="overflow-x:auto; white-space:nowrap; scroll-snap-type:x mandatory; padding:10px 0;" tabindex="0" role="region" aria-label="fufu photo album">
+  <img src="{{ site.baseurl }}/images/fufu-sofa.jpg" alt="fufu lying belly-up on the sofa" loading="lazy"
+       style="width:80%; max-width:600px; height:auto; margin-right:20px; scroll-snap-align:center; display:inline-block; vertical-align:middle;">
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(min(240px, 100%), 1fr)); gap:20px; max-width:760px; margin:24px auto; align-items:start;">
-  <figure style="display:block; margin:0; width:100%;">
-    <a href="{{ site.baseurl }}/images/fufu-sofa.jpg">
-      <img src="{{ site.baseurl }}/images/fufu-sofa.jpg" alt="fufu lying belly-up on the sofa" loading="lazy" style="display:block; width:100%; height:auto; border-radius:12px;">
-    </a>
-    <figcaption style="margin-top:8px; font-size:0.85em; text-align:center;">A very serious relaxation protocol.</figcaption>
-  </figure>
-  <figure style="display:block; margin:0; width:100%;">
-    <a href="{{ site.baseurl }}/images/fufu-window.jpg">
-      <img src="{{ site.baseurl }}/images/fufu-window.jpg" alt="fufu looking back from a cat bed by the window" loading="lazy" style="display:block; width:100%; height:auto; border-radius:12px;">
-    </a>
-    <figcaption style="margin-top:8px; font-size:0.85em; text-align:center;">A quick break from window duty.</figcaption>
-  </figure>
-  <figure style="display:block; margin:0; width:100%;">
-    <a href="{{ site.baseurl }}/images/fufu-relaxing.jpg">
-      <img src="{{ site.baseurl }}/images/fufu-relaxing.jpg" alt="fufu lounging on a cat tree with paws curled up" loading="lazy" style="display:block; width:100%; height:auto; border-radius:12px;">
-    </a>
-    <figcaption style="margin-top:8px; font-size:0.85em; text-align:center;">Considering another nap.</figcaption>
-  </figure>
-  <figure style="display:block; margin:0; width:100%;">
-    <a href="{{ site.baseurl }}/images/fufu-napping.jpg">
-      <img src="{{ site.baseurl }}/images/fufu-napping.jpg" alt="fufu resting face-down in a cat bed" loading="lazy" style="display:block; width:100%; height:auto; border-radius:12px;">
-    </a>
-    <figcaption style="margin-top:8px; font-size:0.85em; text-align:center;">Do not disturb: important sleep research.</figcaption>
-  </figure>
+  <img src="{{ site.baseurl }}/images/fufu-window.jpg" alt="fufu looking back from a cat bed by the window" loading="lazy"
+       style="width:80%; max-width:600px; height:auto; margin-right:20px; scroll-snap-align:center; display:inline-block; vertical-align:middle;">
+
+  <img src="{{ site.baseurl }}/images/fufu-relaxing.jpg" alt="fufu lounging on a cat tree" loading="lazy"
+       style="width:80%; max-width:600px; height:auto; margin-right:20px; scroll-snap-align:center; display:inline-block; vertical-align:middle;">
+
+  <img src="{{ site.baseurl }}/images/fufu-napping.jpg" alt="fufu resting in a cat bed" loading="lazy"
+       style="width:80%; max-width:600px; height:auto; scroll-snap-align:center; display:inline-block; vertical-align:middle;">
 </div>
