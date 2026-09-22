@@ -39,3 +39,38 @@ My time at the Chinese Institute for Brain Research (CIBR) profoundly shaped my 
 Under the mentorship of Dr. Akihiro Yamanaka, I began to appreciate that enjoying science does not simply mean celebrating results. It means embracing uncertainty, designing careful experiments, refining surgical techniques repeatedly, and remaining patient when answers do not come immediately. It means finding satisfaction in the process of thinking — in connecting observations that initially seem unrelated and allowing questions to evolve through disciplined inquiry.
 
 What I value most from that period is the research atmosphere itself: long discussions at the bench, collaborative problem-solving, and the quiet persistence required in experimental neuroscience. That environment helped me realize that scientific joy comes from curiosity sustained by rigor. It is a mindset I hope to carry forward throughout my research career.
+
+---
+
+## Meet fufu — My Unofficial Sleep Consultant
+
+Away from the lab, meet my cat, **fufu**. I study sleep; fufu handles the practical demonstrations. No EEG required — just a comfortable spot and absolutely no urgent plans.
+
+This little corner is for the softer side of life: window watching, paws in the air, and taking a well-earned break. A useful reminder that even a sleep researcher should get some rest.
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(min(240px, 100%), 1fr)); gap:20px; max-width:760px; margin:24px auto; align-items:start;">
+  <figure style="display:block; margin:0; width:100%;">
+    <a href="{{ site.baseurl }}/images/fufu-sofa.jpg">
+      <img src="{{ site.baseurl }}/images/fufu-sofa.jpg" alt="fufu lying belly-up on the sofa" loading="lazy" style="display:block; width:100%; height:auto; border-radius:12px;">
+    </a>
+    <figcaption style="margin-top:8px; font-size:0.85em; text-align:center;">A very serious relaxation protocol.</figcaption>
+  </figure>
+  <figure style="display:block; margin:0; width:100%;">
+    <a href="{{ site.baseurl }}/images/fufu-window.jpg">
+      <img src="{{ site.baseurl }}/images/fufu-window.jpg" alt="fufu looking back from a cat bed by the window" loading="lazy" style="display:block; width:100%; height:auto; border-radius:12px;">
+    </a>
+    <figcaption style="margin-top:8px; font-size:0.85em; text-align:center;">A quick break from window duty.</figcaption>
+  </figure>
+  <figure style="display:block; margin:0; width:100%;">
+    <a href="{{ site.baseurl }}/images/fufu-relaxing.jpg">
+      <img src="{{ site.baseurl }}/images/fufu-relaxing.jpg" alt="fufu lounging on a cat tree with paws curled up" loading="lazy" style="display:block; width:100%; height:auto; border-radius:12px;">
+    </a>
+    <figcaption style="margin-top:8px; font-size:0.85em; text-align:center;">Considering another nap.</figcaption>
+  </figure>
+  <figure style="display:block; margin:0; width:100%;">
+    <a href="{{ site.baseurl }}/images/fufu-napping.jpg">
+      <img src="{{ site.baseurl }}/images/fufu-napping.jpg" alt="fufu resting face-down in a cat bed" loading="lazy" style="display:block; width:100%; height:auto; border-radius:12px;">
+    </a>
+    <figcaption style="margin-top:8px; font-size:0.85em; text-align:center;">Do not disturb: important sleep research.</figcaption>
+  </figure>
+</div>
