@@ -47,15 +47,15 @@ What I value most from that period is the research atmosphere itself: long discu
 Nothing much here, just showing off my cat, **fufu** :)
 
 <div style="overflow-x:auto; white-space:nowrap; scroll-snap-type:x mandatory; padding:10px 0;" tabindex="0" role="region" aria-label="fufu photo album">
-  <img src="{{ site.baseurl }}/images/fufu-sofa.jpg" alt="fufu lying belly-up on the sofa" loading="lazy"
-       style="width:80%; max-width:600px; height:auto; margin-right:20px; scroll-snap-align:center; display:inline-block; vertical-align:middle;">
-
   <img src="{{ site.baseurl }}/images/fufu-window.jpg" alt="fufu looking back from a cat bed by the window" loading="lazy"
-       style="width:80%; max-width:600px; height:auto; margin-right:20px; scroll-snap-align:center; display:inline-block; vertical-align:middle;">
+       style="height:320px; max-height:55vh; width:auto; max-width:none; margin-right:16px; scroll-snap-align:center; display:inline-block; vertical-align:middle;">
 
   <img src="{{ site.baseurl }}/images/fufu-relaxing.jpg" alt="fufu lounging on a cat tree" loading="lazy"
-       style="width:80%; max-width:600px; height:auto; margin-right:20px; scroll-snap-align:center; display:inline-block; vertical-align:middle;">
+       style="height:320px; max-height:55vh; width:auto; max-width:none; margin-right:16px; scroll-snap-align:center; display:inline-block; vertical-align:middle;">
 
   <img src="{{ site.baseurl }}/images/fufu-napping.jpg" alt="fufu resting in a cat bed" loading="lazy"
-       style="width:80%; max-width:600px; height:auto; scroll-snap-align:center; display:inline-block; vertical-align:middle;">
+       style="height:320px; max-height:55vh; width:auto; max-width:none; margin-right:16px; scroll-snap-align:center; display:inline-block; vertical-align:middle;">
+
+  <img src="{{ site.baseurl }}/images/fufu-sofa.jpg" alt="fufu lying belly-up on the sofa" loading="lazy"
+       style="height:320px; max-height:55vh; width:auto; max-width:none; scroll-snap-align:center; display:inline-block; vertical-align:middle;">
 </div>
